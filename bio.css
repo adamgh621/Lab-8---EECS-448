@@ -1,0 +1,46 @@
+body
+{
+  align-items: center;
+  text-align: center;
+  background-color: lightblue;
+}
+
+.image-box img
+{
+  width: 600px;
+  height: 400px;
+}
+
+h1
+{
+  color: lightseagreen;
+}
+
+p
+{
+  font-size: 20px;
+}
+
+a:hover
+{
+  background-color: white;
+}
+
+a
+{
+  font-size: 30px;
+}
+
+a.button1
+{
+  background-color: white;
+  border: 2px solid black;
+  color: lightcoral;
+  padding: 5px 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  margin: 20px 70px;
+  cursor: pointer;
+    
+}
